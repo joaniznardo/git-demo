@@ -1,0 +1,14 @@
+recursos (aka links)
+
+# no salga de casa sin ella
+https://ndpsoftware.com/git-cheatsheet.html
+
+# molt complet 
+https://www.atlassian.com/git/tutorials
+
+## educatiu
+https://www.youtube.com/watch?v=QGKTdL7GG24
+
+## - advanced
+https://learngitbranching.js.org/
+
